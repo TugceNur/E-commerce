@@ -1,0 +1,239 @@
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.exe
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.exe.config
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.rsp
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csi.exe
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csi.rsp
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.AppContext.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Collections.Immutable.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.IO.FileSystem.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Reflection.Metadata.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.exe
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.exe.config
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.rsp
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\VBCSCompiler.exe
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\VBCSCompiler.exe.config
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.dll.config
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.pdb
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.Web.Infrastructure.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Helpers.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Mvc.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Razor.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Deployment.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Razor.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Razor.xml
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.xml
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Deployment.xml
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Razor.xml
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Helpers.xml
+D:\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Mvc.xml
+D:\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csprojResolveAssemblyReference.cache
+D:\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.dll
+D:\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.pdb
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csprojResolveAssemblyReference.cache
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csproj.CoreCompileInputs.cache
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.pdb
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.exe
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.exe.config
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.rsp
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csi.exe
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csi.rsp
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.AppContext.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.exe
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.exe.config
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.rsp
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.dll.config
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.pdb
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FluentMigrator.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Iesi.Collections.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Newtonsoft.Json.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\NHibernate.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Net.Http.Formatting.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Helpers.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.WebHost.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Mvc.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Razor.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Razor.dll
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FluentMigrator.pdb
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FluentMigrator.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Iesi.Collections.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Newtonsoft.Json.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\NHibernate.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Net.Http.Formatting.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.WebHost.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Razor.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Razor.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Helpers.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Mvc.xml
+C:\Users\Tuğçe Nur\Downloads\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csproj.CopyComplete
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.exe
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.exe.config
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.rsp
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csi.exe
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csi.rsp
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.AppContext.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Collections.Immutable.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.IO.FileSystem.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Reflection.Metadata.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.exe
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.exe.config
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.rsp
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\VBCSCompiler.exe
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\VBCSCompiler.exe.config
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.dll.config
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.pdb
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FluentMigrator.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Iesi.Collections.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.Web.Infrastructure.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Newtonsoft.Json.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\NHibernate.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Net.Http.Formatting.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Helpers.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.WebHost.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Mvc.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Razor.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Deployment.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Razor.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FluentMigrator.pdb
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FluentMigrator.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Iesi.Collections.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Newtonsoft.Json.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\NHibernate.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Net.Http.Formatting.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.WebHost.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Razor.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Deployment.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Razor.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Helpers.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Mvc.xml
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csprojResolveAssemblyReference.cache
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csproj.CoreCompileInputs.cache
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csproj.CopyComplete
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.dll
+C:\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.pdb
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.exe
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.exe.config
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csc.rsp
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csi.exe
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\csi.rsp
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.AppContext.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.exe
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.exe.config
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\vbc.rsp
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\VBCSCompiler.exe
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.dll.config
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FiyakaliOlsun.pdb
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FluentMigrator.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Iesi.Collections.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Newtonsoft.Json.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\NHibernate.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Net.Http.Formatting.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Helpers.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.WebHost.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Mvc.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Razor.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Razor.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FluentMigrator.pdb
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\FluentMigrator.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Iesi.Collections.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Newtonsoft.Json.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\NHibernate.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Net.Http.Formatting.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Http.WebHost.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Razor.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Webpages.Razor.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Helpers.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Mvc.xml
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csproj.CoreCompileInputs.cache
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csproj.CopyComplete
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.dll
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.pdb
+C:\Users\TugceNur\Desktop\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csprojAssemblyReference.cache
