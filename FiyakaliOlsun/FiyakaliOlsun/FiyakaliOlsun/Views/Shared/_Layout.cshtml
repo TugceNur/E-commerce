@@ -46,15 +46,16 @@
 
             @if (!User.Identity.IsAuthenticated)
             {
-                <div class="container">
-                    @using (Html.BeginForm("Login", "Login", FormMethod.Post))
-                    {
-                       <text> Mail <input type="text" name="name" value="" />
+            <div class="container">
+                @using (Html.BeginForm("Login", "Login", FormMethod.Post))
+                {
+                    <text> Mail <input type="text" name="name" value="" />
                         Parola: <input type="password" name="password">
-                        <input type="submit" value="Giriş" class="logo"></text>
-                    }
 
-                </div>
+                        <button class="main-btn icon-btn"><i class="fa header-btns"></i>Giriş</button></text>
+                }
+
+            </div>
             }
             else
             {           <div class="pull-right">

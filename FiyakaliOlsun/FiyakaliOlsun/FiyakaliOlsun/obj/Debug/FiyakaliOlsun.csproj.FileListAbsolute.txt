@@ -300,3 +300,4 @@ C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\Fiyaka
 C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csproj.CopyComplete
 C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.dll
 C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.pdb
+C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csprojAssemblyReference.cache

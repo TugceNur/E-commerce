@@ -7,6 +7,7 @@ using System.Web.Security;
 
 namespace FiyakaliOlsun.Controllers
 {
+    
     public class LoginController : Controller
     {
         [HttpPost]
@@ -18,7 +19,8 @@ namespace FiyakaliOlsun.Controllers
         }
         public ActionResult UyeOl()
         {
-            return View();
+           return View();
         }
+
     }
 }
