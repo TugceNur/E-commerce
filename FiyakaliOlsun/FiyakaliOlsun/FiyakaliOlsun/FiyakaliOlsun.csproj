@@ -199,6 +199,10 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Hakkimizda.cshtml" />
     <Content Include="Views\Home\Iletisim.cshtml" />
+    <Content Include="Views\Home\Canta.cshtml" />
+    <Content Include="Views\Home\Goruntule.cshtml" />
+    <Content Include="Views\Home\Ayakkabi.cshtml" />
+    <Content Include="Views\Login\UyeOl.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

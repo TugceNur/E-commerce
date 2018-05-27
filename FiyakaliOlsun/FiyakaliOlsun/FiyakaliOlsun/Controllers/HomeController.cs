@@ -21,5 +21,17 @@ namespace FiyakaliOlsun.Controllers
         {
             return View();
         }
+        public ActionResult Canta()
+        {
+            return View();
+        }
+        public ActionResult Ayakkabi()
+        {
+            return View();
+        }
+        public ActionResult Goruntule()
+        {
+            return View();
+        }
     }
 }

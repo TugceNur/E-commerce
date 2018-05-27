@@ -16,5 +16,9 @@ namespace FiyakaliOlsun.Controllers
             FormsAuthentication.SetAuthCookie(name, true);
             return RedirectToRoute("Home");
         }
+        public ActionResult UyeOl()
+        {
+            return View();
+        }
     }
 }
