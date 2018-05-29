@@ -166,12 +166,18 @@
   <ItemGroup>
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
+    <Compile Include="Areas\Admin\Controllers\DefaultController.cs" />
+    <Compile Include="Areas\Admin\Controllers\PostController.cs" />
+    <Compile Include="Areas\Admin\ViewModels\Default.cs" />
+    <Compile Include="Areas\Admin\ViewModels\Post.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Database.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Infrastructer\PagedData.cs" />
     <Compile Include="Infrastructer\TransactionFilter.cs" />
     <Compile Include="Migrations\_001_Users_And_Roles.cs" />
     <Compile Include="Models\Admin_Kullanici.cs" />
@@ -200,6 +206,13 @@
     <Content Include="Views\Home\Goruntule.cshtml" />
     <Content Include="Views\Home\Ayakkabi.cshtml" />
     <Content Include="Views\Login\UyeOl.cshtml" />
+    <Content Include="Areas\Admin\Views\web.config" />
+    <Content Include="Areas\Admin\Views\Default\Index.cshtml" />
+    <Content Include="Areas\Admin\Views\Default\Kayit.cshtml" />
+    <Content Include="Areas\Admin\Views\Default\Home.cshtml" />
+    <Content Include="Areas\Admin\Views\Default\Edit.cshtml" />
+    <Content Include="Areas\Admin\Views\Default\ResetPassword.cshtml" />
+    <Content Include="Areas\Admin\Views\Post\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -209,6 +222,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Areas\Admin\Views\Posts\" />
+    <Folder Include="Areas\Admin\Views\Shared\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

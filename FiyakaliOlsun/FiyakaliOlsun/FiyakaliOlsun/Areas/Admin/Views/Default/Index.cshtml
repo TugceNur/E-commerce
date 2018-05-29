@@ -1,0 +1,18 @@
+﻿@model FiyakaliOlsun.Areas.Admin.ViewModels.DefaultIndex
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        @Html.LabelFor(x => x.Username)
+        @Html.TextBoxFor(x => x.Username, new { @class = "form-control", @placeholder = "Enter Username" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(x => x.Password)
+        @Html.PasswordFor(x => x.Password, new { @class = "form-control", @placeholder = "Enter Username" })
+    </div>
+    <input type="submit" value="Login" class="btn btn-primary btn-block" />
+}
+<div class="text-center">
+    <a class="d-block small mt-3" href="@Url.Action("Kayit", "Default")">Register an Account</a>
+</div>

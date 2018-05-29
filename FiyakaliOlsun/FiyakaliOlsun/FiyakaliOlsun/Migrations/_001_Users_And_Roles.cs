@@ -46,7 +46,8 @@ namespace FiyakaliOlsun.Migrations
             Create.Table("adminKullanici")
                 .WithColumn("id").AsInt32().PrimaryKey().Identity()
                 .WithColumn("kullaniciAdi").AsString(30)
-                .WithColumn("parola").AsString(30);
+                .WithColumn("parola").AsString(30)
+                .WithColumn("mail").AsString(128);
         }
     }
 }

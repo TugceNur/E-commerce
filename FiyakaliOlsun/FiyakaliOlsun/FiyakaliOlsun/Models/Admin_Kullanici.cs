@@ -10,8 +10,9 @@ namespace FiyakaliOlsun.Models
     public class Admin_Kullanici
     {
         public virtual int Id { get; set; }
+        public virtual string email { get; set; }
         public virtual string KullaniciAdi { get; set; }
-        public virtual int Parola { get; set; }
+        public virtual string Parola { get; set; }
     }
     public class AdminKullaniciMap : ClassMapping<Admin_Kullanici>
     {
@@ -25,6 +26,7 @@ namespace FiyakaliOlsun.Models
                 x.NotNullable(true);
             });
             Property(x => x.KullaniciAdi, x => x.NotNullable(true));
+            Property(x => x.email, x => x.NotNullable(true));
             Property(x => x.Parola, x => x.NotNullable(true));
         }
     }

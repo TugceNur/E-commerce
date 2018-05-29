@@ -1,0 +1,59 @@
+﻿@model FiyakaliOlsun.Areas.Admin.ViewModels.PostIndex
+
+<h1>Posts</h1>
+<div class="btn-toolbar">
+    <div class="btn-group">
+        <a href="@Url.Action("new")" class="btn btn-primary btn-sm"><i class="glyphicon glyphicon-plus"></i>Create Post</a>
+    </div>
+    <div class="btn-group pull-right">
+        @if (Model.Posts.HasPreviousPage)
+        {
+            <a href="@Url.Action("index",new { page=Model.Posts.PreviousPage})" class="btn btn-primary btn-sm">
+                <i class="glyphicon glyphicon-chevron-left"></i>
+                Previous Page
+            </a>
+        }
+        else
+        {
+            <a href="#" class="btn btn-default disabled btn-sm">
+                <i class="glyphicon glyphicon-chevron-left"></i>
+                Previous Page
+            </a>
+        }
+        @if (Model.Posts.HasNextPage)
+        {
+            <a href="@Url.Action("index",new { page=Model.Posts.NextPage})" class="btn btn-primary btn-sm">
+
+                Next Page <i class="glyphicon glyphicon-chevron-right"></i>
+            </a>
+        }
+        else
+        {
+            <a href="#" class="btn btn-default disabled btn-sm">
+
+                Next Page <i class="glyphicon glyphicon-chevron-right"></i>
+            </a>
+        }
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Ürün Adı</th>
+                <th>Ürün Resim</th>
+                <th>Fiyat</th>
+                <th>Açıklama</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var post in Model.Posts)
+            {
+                <tr>
+                    <td>@post.UrunAdi</td>
+                    <td>@post.UrunResmi</td>
+                    <td>@post.Fiyat</td>
+                    <td>@post.Aciklama</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
