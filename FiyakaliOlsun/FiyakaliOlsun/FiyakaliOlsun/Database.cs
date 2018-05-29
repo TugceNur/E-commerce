@@ -5,6 +5,7 @@ using NHibernate.Mapping.ByCode;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Web;
 
 namespace FiyakaliOlsun
@@ -13,7 +14,7 @@ namespace FiyakaliOlsun
     {
         private static ISessionFactory _sessionFactory;
         private const string SessionKey = "fiyakaliolsun.Database.SessionKey";
-
+       
         public static ISession Session
         {
             get { return (ISession)HttpContext.Current.Items[SessionKey]; }
@@ -31,10 +32,11 @@ namespace FiyakaliOlsun
             mapper.AddMapping<SepetMap>();
             mapper.AddMapping<MusteriMap>();
             mapper.AddMapping<AdminKullaniciMap>();
-
+           
             config.AddMapping(mapper.CompileMappingForAllExplicitlyAddedEntities());
 
             _sessionFactory = config.BuildSessionFactory();
+            
         }
 
         public static void OpenSession()

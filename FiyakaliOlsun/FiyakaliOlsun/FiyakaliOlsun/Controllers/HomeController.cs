@@ -1,6 +1,10 @@
-﻿using System;
+﻿using FiyakaliOlsun.Models;
+using NHibernate;
+using NHibernate.Cfg;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Web;
 using System.Web.Mvc;
 

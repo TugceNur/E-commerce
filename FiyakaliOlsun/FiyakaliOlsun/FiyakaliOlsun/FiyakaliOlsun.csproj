@@ -112,8 +112,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\blank.html" />
-    <Content Include="Content\checkout.html" />
     <Content Include="Content\css\bootstrap.min.css" />
     <Content Include="Content\css\font-awesome.min.css" />
     <Content Include="Content\css\nouislider.min.css" />
@@ -154,21 +152,19 @@
     <Content Include="Content\img\thumb-product02.jpg" />
     <Content Include="Content\img\thumb-product03.jpg" />
     <Content Include="Content\img\thumb-product04.jpg" />
-    <Content Include="Content\index.html" />
     <Content Include="Content\js\bootstrap.min.js" />
     <Content Include="Content\js\jquery.min.js" />
     <Content Include="Content\js\jquery.zoom.min.js" />
     <Content Include="Content\js\main.js" />
     <Content Include="Content\js\nouislider.min.js" />
     <Content Include="Content\js\slick.min.js" />
-    <Content Include="Content\product-page.html" />
-    <Content Include="Content\products.html" />
     <Content Include="Global.asax" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
@@ -176,6 +172,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Infrastructer\TransactionFilter.cs" />
     <Compile Include="Migrations\_001_Users_And_Roles.cs" />
     <Compile Include="Models\Admin_Kullanici.cs" />
     <Compile Include="Models\Musteri.cs" />

@@ -19,6 +19,11 @@ namespace FiyakaliOlsun.Models
         {
             Table("adminKullanici");
             Id(x => x.Id, x => x.Generator(Generators.Identity));
+            ManyToOne(x => x.KullaniciAdi, x =>
+            {
+                x.Column("adminKullanici");
+                x.NotNullable(true);
+            });
             Property(x => x.KullaniciAdi, x => x.NotNullable(true));
             Property(x => x.Parola, x => x.NotNullable(true));
         }
