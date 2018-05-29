@@ -300,4 +300,8 @@ C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\Fiyaka
 C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csproj.CopyComplete
 C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.dll
 C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.pdb
-C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\obj\Debug\FiyakaliOlsun.csprojAssemblyReference.cache
+C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Antlr3.Runtime.dll
+C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Optimization.dll
+C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\WebGrease.dll
+C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\Antlr3.Runtime.pdb
+C:\Users\TugceNur\Documents\GitHub\E-commerce\FiyakaliOlsun\FiyakaliOlsun\FiyakaliOlsun\bin\System.Web.Optimization.xml

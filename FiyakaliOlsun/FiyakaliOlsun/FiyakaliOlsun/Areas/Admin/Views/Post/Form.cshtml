@@ -1,0 +1,75 @@
+﻿@using System.Web.Optimization
+
+@model FiyakaliOlsun.Areas.Admin.ViewModels.PostForm
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>SB Admin - Start Bootstrap Template</title>
+    <!-- Bootstrap core CSS-->
+    <link href="~/Areas/Admin/Content/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom fonts for this template-->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Custom styles for this template-->
+    <link href="~/Areas/Admin/Content/css/sb-admin.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>@(Model.IsNew ? "Urun Ekle" : "Urun Guncelle")</h1>
+        @using (Html.BeginForm("Form", "Post"))
+        {
+            if (!Model.IsNew)
+            {
+                @Html.HiddenFor(p => p.urunId)
+            }
+
+            <div class="row">
+                <div class="col-lg-8">
+                    @Html.ValidationSummary()
+                    <div class="form-group">
+                        @Html.LabelFor(f => f.urunAdi)
+                        @Html.TextBoxFor(f => f.urunAdi, new { @class = "form-control" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(f => f.urunResim)
+                        @Html.TextBoxFor(f => f.urunResim, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(f => f.Fiyat)
+                        @Html.TextBoxFor(f => f.Fiyat, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(f => f.Aciklama)
+                        @Html.TextAreaFor(f => f.Aciklama, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Post Actions</div>
+                        <div class="panel-body">
+                            <input type="submit" value="@(Model.IsNew?"Urun Ekle":"Urun Guncelle")" class="btn btn-success btn-sm" />
+                            <a href="@Url.Action("Index")"> or cancel</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            @section Scripts{
+                <script src="~/Scripts/ckeditor/ckeditor.js"></script>
+                <script>
+                    CKEDITOR.replace("Aciklama");
+                </script>
+            }
+        }
+    </div>
+
+</body>
+</html>
+

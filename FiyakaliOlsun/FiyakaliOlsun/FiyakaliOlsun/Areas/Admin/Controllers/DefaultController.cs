@@ -1,4 +1,5 @@
 ﻿using FiyakaliOlsun.Areas.Admin.ViewModels;
+using FiyakaliOlsun.Infrastructer;
 using FiyakaliOlsun.Models;
 using NHibernate.Linq;
 using System;
@@ -10,6 +11,7 @@ using System.Web.Security;
 
 namespace FiyakaliOlsun.Areas.Admin.Controllers
 {
+    [SelectedTabAttribute("Admin")]
     public class DefaultController : Controller
     {
         // GET: Admin/Default
