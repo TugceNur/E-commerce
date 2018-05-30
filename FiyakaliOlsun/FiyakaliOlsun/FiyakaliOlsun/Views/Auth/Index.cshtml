@@ -1,25 +1,11 @@
-﻿@model FiyakaliOlsun.Areas.Admin.ViewModels.DefaultIndex
+﻿@model FiyakaliOlsun.ViewModels.AuthIndex
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>-Fiyakali Admin-</title>
-    <!-- Bootstrap core CSS-->
-    <link href="~/Areas/Admin/Content/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom fonts for this template-->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <!-- Custom styles for this template-->
-    <link href="~/Areas/Admin/Content/css/sb-admin.css" rel="stylesheet">
-</head>
 <body class="bg-dark">
     <div class="container">
         <div class="card card-login mx-auto mt-5">
-            <div class="card-header">Login</div>
+            <div class="card-header"></div>
             <div class="card-body">
                 @using (Html.BeginForm())
                 {
@@ -35,7 +21,7 @@
                     <input type="submit" value="Login" class="btn btn-primary btn-block" />
                 }
                 <div class="text-center">
-                    <a class="d-block small mt-3" href="@Url.Action("Kayit", "Default")">Register an Account</a>
+                    <a class="d-block small mt-3" href="@Url.Action("Kayit", "Auth")">Register an Account</a>
                 </div>
             </div>
         </div>

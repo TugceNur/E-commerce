@@ -34,14 +34,14 @@ namespace FiyakaliOlsun.Migrations
 
             Create.Table("musteri")
                 .WithColumn("id").AsInt32().PrimaryKey().Identity()
-                .WithColumn("sepetId").AsInt32()
                 .WithColumn("adSoyad").AsString(128)
                 .WithColumn("email").AsString(128)
-                .WithColumn("tel").AsInt32()
+                .WithColumn("tel").AsString(128)
                 .WithColumn("adres").AsString(255)
                 .WithColumn("dogumTarihi").AsDateTime()
                 .WithColumn("kullaniciAdi").AsString(30)
-                .WithColumn("parola").AsString(30);
+                .WithColumn("parola").AsString(30)
+                .WithColumn("MusteriId").AsInt32();
 
             Create.Table("adminKullanici")
                 .WithColumn("id").AsInt32().PrimaryKey().Identity()

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>SB Admin - Start Bootstrap Template</title>
+    <title>-Fiyakali Admin-</title>
     <!-- Bootstrap core CSS-->
     <link href="~/Areas/Admin/Content/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom fonts for this template-->
@@ -17,38 +17,38 @@
 </head>
 <body>
     <div class="container">
-        <h1>Posts</h1>
+        <h1>Ürünler</h1>
     <div class="btn-toolbar">
         <div class="btn-group">
-            <a href="@Url.Action("new")" class="btn btn-primary btn-sm"><i class="glyphicon glyphicon-plus"></i>Create Post</a>
+            <a href="@Url.Action("new")" class="btn btn-primary btn-sm"><i class="glyphicon glyphicon-plus"></i>Ürün Ekle</a>
         </div>
         <div class="btn-group pull-right">
             @if (Model.Posts.HasPreviousPage)
             {
                 <a href="@Url.Action("index",new { page=Model.Posts.PreviousPage})" class="btn btn-primary btn-sm">
                     <i class="glyphicon glyphicon-chevron-left"></i>
-                    Previous Page
+                    Önceki Sayfa
                 </a>
             }
             else
             {
                 <a href="#" class="btn btn-default disabled btn-sm">
                     <i class="glyphicon glyphicon-chevron-left"></i>
-                    Previous Page
+                   Önceki Sayfa
                 </a>
             }
             @if (Model.Posts.HasNextPage)
             {
                 <a href="@Url.Action("index",new { page=Model.Posts.NextPage})" class="btn btn-primary btn-sm">
 
-                    Next Page <i class="glyphicon glyphicon-chevron-right"></i>
+                    Sonraki Sayfa <i class="glyphicon glyphicon-chevron-right"></i>
                 </a>
             }
             else
             {
                 <a href="#" class="btn btn-default disabled btn-sm">
 
-                    Next Page <i class="glyphicon glyphicon-chevron-right"></i>
+                    Sonraki Sayfa <i class="glyphicon glyphicon-chevron-right"></i>
                 </a>
             }
         </div>

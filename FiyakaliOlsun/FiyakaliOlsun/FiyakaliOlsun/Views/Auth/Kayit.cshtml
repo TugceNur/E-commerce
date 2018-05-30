@@ -1,32 +1,35 @@
-﻿@model FiyakaliOlsun.Areas.Admin.ViewModels.DefaultKayit
+﻿@model FiyakaliOlsun.ViewModels.AuthKayit
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>--Fiyakali Admin-</title>
-    <!-- Bootstrap core CSS-->
-    <link href="~/Areas/Admin/Content/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom fonts for this template-->
-    <link href="~/Areas/Admin/Content/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <!-- Custom styles for this template-->
-    <link href="~/Areas/Admin/Content/css/sb-admin.css" rel="stylesheet">
-</head>
+
 <body class="bg-dark">
     <div class="container">
         <div class="card card-register mx-auto mt-5">
-            <div class="card-header">Register an Account</div>
+            <div class="card-header"><br /></div>
             <div class="card-body">
                 @using (Html.BeginForm())
                 {
                     @Html.ValidationSummary()
                     <div class="form-group">
+                        @Html.LabelFor(x => x.AdSoyad)
+                        @Html.TextBoxFor(x => x.AdSoyad, new { @class = "form-control", @placeholder = "Enter AdSoyad" })
+                    </div>
+                    <div class="form-group">
                         @Html.LabelFor(x => x.Email)
                         @Html.TextBoxFor(x => x.Email, new { @class = "form-control", @placeholder = "Enter Email" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.Tel)
+                        @Html.TextBoxFor(x => x.Tel, new { @class = "form-control", @placeholder = "Enter Tel" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.Adres)
+                        @Html.TextAreaFor(x => x.Adres, new { @class = "form-control", @placeholder = "Enter Adres" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(x => x.DogumTarihi)
+                        @Html.TextBoxFor(x => x.DogumTarihi, new { @class = "form-control", @placeholder = "Enter DogumTarihi" })
                     </div>
                     <div class="form-group">
                         @Html.LabelFor(x => x.Username)
@@ -41,10 +44,9 @@
                     <input type="submit" value="Register" class="btn btn-primary btn-block" />
                 }
                 <div class="text-center">
-                    <a class="d-block small mt-3" href="@Url.Action("Index", "Default")">Login Page</a>
+                    <a class="d-block small mt-3" href="@Url.Action("Index", "Auth")">Login Page</a>
                 </div>
             </div>
-        </div>
     </div>
     <!-- Bootstrap core JavaScript-->
     <script src="~/Areas/Admin/Content/vendor/jquery/jquery.min.js"></script>

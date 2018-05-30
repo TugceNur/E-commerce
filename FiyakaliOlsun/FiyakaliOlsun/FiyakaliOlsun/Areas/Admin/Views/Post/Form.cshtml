@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>SB Admin - Start Bootstrap Template</title>
+    <title>-Fiyakali Admin-</title>
     <!-- Bootstrap core CSS-->
     <link href="~/Areas/Admin/Content/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom fonts for this template-->
@@ -19,7 +19,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>@(Model.IsNew ? "Urun Ekle" : "Urun Guncelle")</h1>
+        <h1>@(Model.IsNew ? "Ürün Ekle" : "Ürün Guncelle")</h1>
         @using (Html.BeginForm("Form", "Post"))
         {
             if (!Model.IsNew)
@@ -50,16 +50,14 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="panel panel-info">
-                        <div class="panel-heading">Post Actions</div>
+                        <div class="panel-heading"> </div>
                         <div class="panel-body">
-                            <input type="submit" value="@(Model.IsNew?"Urun Ekle":"Urun Guncelle")" class="btn btn-success btn-sm" />
-                            <a href="@Url.Action("Index")"> or cancel</a>
+                            <input type="submit" value="@(Model.IsNew?"Ürün Ekle":"Ürün Güncelle")" class="btn btn-success btn-dark" />
+                            <a href="@Url.Action("Index")"> İptal</a>
                         </div>
                     </div>
                 </div>
             </div>
-
-
 
             @section Scripts{
                 <script src="~/Scripts/ckeditor/ckeditor.js"></script>

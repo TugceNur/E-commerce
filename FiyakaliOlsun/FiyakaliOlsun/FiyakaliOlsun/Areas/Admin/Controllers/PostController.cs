@@ -15,7 +15,7 @@ namespace FiyakaliOlsun.Areas.Admin.Controllers
     public class PostController : Controller
     {
         // GET: Admin/Post
-        private const int PostPerPage = 1;
+        private const int PostPerPage = 10;
         public ActionResult Index(int page = 1)
         {
             int totalPostCount = Database.Session.Query<Urunler>().Count();

@@ -10,10 +10,9 @@ namespace FiyakaliOlsun.Models
     public class Musteri
     {
         public virtual int Id { get; set; }
-        public virtual Sepet SepetId { get; set; }
         public virtual string AdSoyad { get; set; }
         public virtual string email { get; set; }
-        public virtual int Tel { get; set; }
+        public virtual string  Tel { get; set; }
         public virtual string Adres { get; set; }
         public virtual DateTime DogumTarihi { get; set; }
         public virtual string KullaniciAdi { get; set; }
@@ -25,11 +24,7 @@ namespace FiyakaliOlsun.Models
         {
             Table("Musteri");
             Id(x => x.Id, x => x.Generator(Generators.Identity));
-            ManyToOne(x => x.SepetId, x =>
-            {
-                x.Column("sepetId");
-                x.NotNullable(false);
-            });
+
             
             Property(x => x.AdSoyad, x => x.NotNullable(true));
             Property(x => x.email, x => x.NotNullable(true));
