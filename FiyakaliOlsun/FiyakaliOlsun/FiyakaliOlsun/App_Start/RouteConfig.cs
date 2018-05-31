@@ -20,7 +20,8 @@ namespace FiyakaliOlsun
             routes.MapRoute("Iletisim", "iletisim", new { Controller = "Home", Action = "Iletisim" });
             routes.MapRoute("Index", "login", new { Controller = "Auth", Action = "Index" });
             routes.MapRoute("Kayit", "kayit", new { Controller = "Auth", Action = "Kayit" });
-
+            routes.MapRoute("Giris", "giris", new { Controller = "Auth", Action = "Giris" });
+            routes.MapRoute("Cikis", "cikis", new { Controller = "Auth", Action = "Cikis" });
         }
     }
 }

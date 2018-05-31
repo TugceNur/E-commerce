@@ -1,9 +1,14 @@
 ﻿@model FiyakaliOlsun.ViewModels.AuthIndex
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <body class="bg-dark">
     <div class="container">
+        @if (FiyakaliOlsun.Models.LoginState._RegSuccess)
+        {
+            <div class="alert alert-success" role="alert">Kayıt olma işlemi tamamlandı. Giriş yaparak devam edebilirsiniz.</div>
+        }
+
         <div class="card card-login mx-auto mt-5">
             <div class="card-header"></div>
             <div class="card-body">
@@ -12,11 +17,11 @@
                     @Html.ValidationSummary()
                     <div class="form-group">
                         @Html.LabelFor(x => x.Username)
-                        @Html.TextBoxFor(x => x.Username, new { @class = "form-control", @placeholder = "Enter Username" })
+                        @Html.TextBoxFor(x => x.Username, new { @class = "form-control", @placeholder = "" })
                     </div>
                     <div class="form-group">
                         @Html.LabelFor(x => x.Password)
-                        @Html.PasswordFor(x => x.Password, new { @class = "form-control", @placeholder = "Enter Password" })
+                        @Html.PasswordFor(x => x.Password, new { @class = "form-control", @placeholder = "" })
                     </div>
                     <input type="submit" value="Login" class="btn btn-primary btn-block" />
                 }

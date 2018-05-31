@@ -12,81 +12,88 @@ using System.Web.Security;
 
 namespace FiyakaliOlsun.Controllers
 {
-      public class AuthController : Controller
+    public class AuthController : Controller
+    {
+        // GET: Auth
+        public ActionResult Index()
         {
-            // GET: Auth
-            public ActionResult Index()
+            return View(new AuthIndex());
+        }
+        public ActionResult Giris()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Index(AuthIndex form, string returnUrl)
+        {
+            var user = Database.Session.Query<Musteri>().FirstOrDefault(u => u.KullaniciAdi == form.Username);
+
+
+            if (user == null || user.Parola != form.Password)
             {
-                return View(new AuthIndex());
+                ModelState.AddModelError("Username", "Kullanıcı adı veya şifre geçersiz!");
             }
 
-            [HttpPost]
-            public ActionResult Index(AuthIndex form, string returnUrl)
+            if (!ModelState.IsValid)
             {
-                var user = Database.Session.Query<Musteri>().FirstOrDefault(u => u.KullaniciAdi == form.Username);
-
-
-                if (user == null || user.Parola != form.Password)
-                {
-                    ModelState.AddModelError("Username", "Username or password is invalid !");
-                }
-
-                if (!ModelState.IsValid)
-                {
-                    return View(form);
-                }
-
-                Session["Musteri"] = form.Username;
-
-                if (!String.IsNullOrWhiteSpace(returnUrl))
-                {
-                    return Redirect(returnUrl);
-                }
-                else
-                {
-                    return RedirectToRoute("Home");
-                }
+                return View(form);
             }
 
-            public ActionResult Cikis()
+            Session["Musteri"] = form.Username;
+
+            if (!String.IsNullOrWhiteSpace(returnUrl))
             {
-                Session["Musteri"] = null;
-                return RedirectToRoute("Home");
+                return Redirect(returnUrl);
             }
-
-            public ActionResult Kayit()
+            else
             {
-                return View();
-            }
-
-            [HttpPost]
-            public ActionResult Kayit(AuthKayit form)
-            {
-                if (Database.Session.Query<Musteri>().Any(p => p.KullaniciAdi == form.Username))
-                {
-                    ModelState.AddModelError("Kullanıcı Adı", "Bu kullanıcı adı kullanılıyor.");
-                } //username control in database. 
-
-                if (!ModelState.IsValid) //form validation control
-                {
-                    return View(form);
-                }
-
-                var user = new Musteri() //create a new user object
-                {
-                    AdSoyad = form.AdSoyad,
-                    email = form.Email,
-                    Tel = form.Tel,
-                    Adres = form.Adres,
-                    DogumTarihi = form.DogumTarihi,
-                    KullaniciAdi = form.Username,
-                    Parola = form.Password
-                };
-
-                Database.Session.Save(user); //save admin object to database
-                Database.Session.Flush();
-
-                return RedirectToRoute("Kayit");
+                Models.LoginState._LoginState = true;
+                return RedirectToAction("Index","Home");
             }
         }
+
+        public ActionResult Cikis()
+        {
+            Session["Musteri"] = null;
+            Models.LoginState._LoginState = false;
+            return RedirectToAction("Index","Home");
+        }
+
+        public ActionResult Kayit()
+        {
+            Models.LoginState._RegSuccess = false;
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Kayit(AuthKayit form)
+        {
+            if (Database.Session.Query<Musteri>().Any(p => p.KullaniciAdi == form.Username))
+            {
+                ModelState.AddModelError("Kullanıcı Adı", "Bu kullanıcı adı kullanılıyor.");
+            } //username control in database. 
+
+            if (!ModelState.IsValid) //formu doğruluyor
+            {
+                return View(form);
+            }
+
+            var user = new Musteri() //musteriden user adında kullanıcı olusturuldu.
+            {
+                AdSoyad = form.AdSoyad,
+                email = form.Email,
+                Tel = form.Tel,
+                Adres = form.Adres,
+                DogumTarihi = form.DogumTarihi,
+                KullaniciAdi = form.Username,
+                Parola = form.Password
+            };
+
+            Database.Session.Save(user); //kullanıcı kaydedildi.
+            Database.Session.Flush();
+            Models.LoginState._RegSuccess = true;
+            return RedirectToRoute("Index");
+        }
     }
+}

@@ -664,6 +664,7 @@
     <Compile Include="Infrastructer\TransactionFilter.cs" />
     <Compile Include="Migrations\_001_Users_And_Roles.cs" />
     <Compile Include="Models\Admin_Kullanici.cs" />
+    <Compile Include="Models\LoginState.cs" />
     <Compile Include="Models\Musteri.cs" />
     <Compile Include="Models\Sepet.cs" />
     <Compile Include="Models\Urunler.cs" />

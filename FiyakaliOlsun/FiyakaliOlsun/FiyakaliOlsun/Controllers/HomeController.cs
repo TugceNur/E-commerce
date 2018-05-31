@@ -1,6 +1,8 @@
 ﻿using FiyakaliOlsun.Models;
+using FiyakaliOlsun.ViewModels;
 using NHibernate;
 using NHibernate.Cfg;
+using NHibernate.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,10 +15,7 @@ namespace FiyakaliOlsun.Controllers
     public class HomeController : Controller
     {
         // GET: Home
-        public ActionResult Index()
-        {
-            return View();
-        }
+       
         public ActionResult Hakkimizda()
         {
             return View();
@@ -36,6 +35,15 @@ namespace FiyakaliOlsun.Controllers
         public ActionResult Goruntule()
         {
             return View();
+        }
+        public ActionResult Index()
+        {
+            var urun = Database.Session.Query<Urunler>().ToList();
+
+            return View(new HomeIndex()
+            {
+                urunler = urun
+            });
         }
     }
 }
